@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋 Welcome to My Code World 🌎!</h1>
+<h1 align="left">Hi 👋 Welcome to My Coding World 🌎!</h1>
 
 ###
 
